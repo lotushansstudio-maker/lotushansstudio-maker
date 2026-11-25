@@ -16,6 +16,8 @@ I trained as an oil painter; these days I also paint with code. Small generative
 
 - **[String Mandala · 弦线曼陀罗](https://lotushansstudio-maker.github.io/visual/string-mandala/)**: pin *i* is tied to pin *i × k*; drag *k* and hundreds of glowing strings morph from a cardioid into a flower. Tap to pluck. ([code](https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io/tree/main/visual/string-mandala))
 
+- **[ASCII Xmas Tree · 手势圣诞树](https://lotushansstudio-maker.github.io/ascii-xmas-tree/)**: thousands of ASCII characters grow into a Christmas tree with one-hand camera gestures, or with taps. ([code](https://github.com/lotushansstudio-maker/ascii-xmas-tree))
+
 All pieces 全部作品: [lotushansstudio-maker.github.io/visual](https://lotushansstudio-maker.github.io/visual/)
 
 **Tools:** Python, pandas, NumPy, SciPy, matplotlib, Excel
