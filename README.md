@@ -14,6 +14,8 @@ MSc in Quantitative Finance at Singapore Management University, based in Singapo
 
 I trained as an oil painter; these days I also paint with code. Small generative and interactive pieces, each written from scratch as a single HTML file. 油画出身，现在也用代码画画。
 
+- **[Dust Sculpture · 本来无一物，何处惹尘埃](https://lotushansstudio-maker.github.io/visual/dust-sculpture/)**: over a hundred thousand points of light form a glowing sculpture that morphs through nine shapes; swipe to blow it into dust, hold for a vortex, release for a shockwave. ([code](https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io/tree/main/visual/dust-sculpture))
+
 - **[String Mandala · 弦线曼陀罗](https://lotushansstudio-maker.github.io/visual/string-mandala/)**: pin *i* is tied to pin *i × k*; drag *k* and hundreds of glowing strings morph from a cardioid into a flower. Tap to pluck. ([code](https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io/tree/main/visual/string-mandala))
 
 - **[ASCII Xmas Tree · 手势圣诞树](https://lotushansstudio-maker.github.io/ascii-xmas-tree/)**: thousands of ASCII characters grow into a Christmas tree with one-hand camera gestures, or with taps. ([code](https://github.com/lotushansstudio-maker/ascii-xmas-tree))
