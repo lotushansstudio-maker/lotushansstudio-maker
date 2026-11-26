@@ -14,6 +14,8 @@ MSc in Quantitative Finance at Singapore Management University, based in Singapo
 
 I trained as an oil painter; these days I also paint with code. Small generative and interactive pieces, each written from scratch as a single HTML file. 油画出身，现在也用代码画画。
 
+- **[Lumen Tide · 光潮](https://lotushansstudio-maker.github.io/visual/lumen-tide/)**: guide a glowing orb across a night sea of tens of thousands of points of light, driven by a 2D wave equation; tap to splash, hold and release to burst, or wave at the camera. ([code](https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io/tree/main/visual/lumen-tide))
+
 - **[Dust Sculpture · 本来无一物，何处惹尘埃](https://lotushansstudio-maker.github.io/visual/dust-sculpture/)**: over a hundred thousand points of light form a glowing sculpture that morphs through nine shapes; swipe to blow it into dust, hold for a vortex, release for a shockwave. ([code](https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io/tree/main/visual/dust-sculpture))
 
 - **[String Mandala · 弦线曼陀罗](https://lotushansstudio-maker.github.io/visual/string-mandala/)**: pin *i* is tied to pin *i × k*; drag *k* and hundreds of glowing strings morph from a cardioid into a flower. Tap to pluck. ([code](https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io/tree/main/visual/string-mandala))
