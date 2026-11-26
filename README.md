@@ -16,6 +16,8 @@ I trained as an oil painter; these days I also paint with code. Small generative
 
 - **[Light Cage · 光笼](https://lotushansstudio-maker.github.io/visual/light-cage/)**: a particle sculpture in a glowing wireframe cube; hold it in your palm, pull the cage open with both hands and it scatters into a Lorenz-attractor flow, make a fist to reshape it. ([code](https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io/tree/main/visual/light-cage))
 
+- **[Poem Curtain · 诗帘](https://lotushansstudio-maker.github.io/visual/poem-curtain/)**: classical Chinese poems hang from five kinds of eaves as curtains of characters, each rope a Verlet chain; brush through and they part like cloth, then sway back. ([code](https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io/tree/main/visual/poem-curtain))
+
 - **[Lumen Tide · 光潮](https://lotushansstudio-maker.github.io/visual/lumen-tide/)**: guide a glowing orb across a night sea of tens of thousands of points of light, driven by a 2D wave equation; tap to splash, hold and release to burst, or wave at the camera. ([code](https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io/tree/main/visual/lumen-tide))
 
 - **[Dust Sculpture · 本来无一物，何处惹尘埃](https://lotushansstudio-maker.github.io/visual/dust-sculpture/)**: over a hundred thousand points of light form a glowing sculpture that morphs through nine shapes; swipe to blow it into dust, hold for a vortex, release for a shockwave. ([code](https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io/tree/main/visual/dust-sculpture))
