@@ -14,7 +14,7 @@ MSc in Quantitative Finance at Singapore Management University, based in Singapo
 
 I trained as an oil painter; these days I also paint with code. Small generative and interactive pieces, each written from scratch as a single HTML file. 油画出身，现在也用代码画画。
 
-- **[Light Cage · 光笼](https://lotushansstudio-maker.github.io/visual/light-cage/)**: a particle sculpture in a glowing wireframe cube; hold it in your palm, pull the cage open with both hands and it scatters into a Lorenz-attractor flow, make a fist to reshape it. ([code](https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io/tree/main/visual/light-cage))
+- **[Light Cage · 光笼](https://lotushansstudio-maker.github.io/visual/light-cage/)**: hold a glowing wireframe cube in one hand; open the other and the formula-built particle sculpture inside bursts into tangled fibres, make a fist and it forms the next one. ([code](https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io/tree/main/visual/light-cage))
 
 - **[Poem Curtain · 诗帘](https://lotushansstudio-maker.github.io/visual/poem-curtain/)**: classical Chinese poems hang from five kinds of eaves as curtains of characters, each rope a Verlet chain; brush through and they part like cloth, then sway back. ([code](https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io/tree/main/visual/poem-curtain))
 
